@@ -1,36 +1,62 @@
-# Aviyan Pandey
+# Aviyan Pandey – Academic Website
 
-Welcome to my personal website repository.
-
-This website contains information about my research, publications, projects, and professional activities.
+This repository contains the source code for my personal academic website hosted using GitHub Pages.
 
 ## About
 
-I am a researcher interested in plant–microbe interactions, rhizosphere ecology, and nitrogen cycling in agroecosystems.
+I am interested in:
 
-## Research Interests
+* Plant–microbe interactions
+* Rhizosphere ecology
+* Nitrogen cycling
+* Soil microbial ecology
+* Sustainable agricultural systems
 
-- Rhizosphere microbiology
-- Plant nitrogen acquisition
-- Sorghum root exudates
-- Soil microbial ecology
-- Sustainable agriculture
+This website serves as a platform to showcase my research projects, publications, academic activities, and professional profile.
 
-## Website Sections
+## Website Features
 
-- Home
-- About
-- Research
-- Publications
-- CV
-- Contact
+* Responsive modern design
+* Research project showcase
+* Publication section
+* Contact information
+* GitHub Pages deployment
 
-## Website
+## Technologies Used
 
-The website is available at:
+* HTML
+* CSS
+* JavaScript
+* GitHub Pages
 
-https://yourusername.github.io
+## Repository Structure
+
+```text
+├── index.html
+├── style.css
+├── script.js
+├── images/
+├── files/
+└── README.md
+```
+
+## Live Website
+
+Visit the website here:
+
+https://aviyanpandey.github.io
+
+## Future Improvements
+
+* Publication database
+* Downloadable CV
+* Research gallery
+* Project pages
+* Dark mode support
+* Interactive visualizations
 
 ## Contact
 
-Email: your.email@example.com
+GitHub: https://github.com/aviyanpandey
+
+Email: [your-email@example.com](mailto:your-email@example.com)
