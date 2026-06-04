@@ -184,22 +184,33 @@ footer {
 }
 .hero-icons {
     margin-top: 25px;
-
     display: flex;
     justify-content: center;
     gap: 25px;
 }
-/* ONLY ICONS - no box, no background */
+/* base style */
 .hero-icons a {
-    font-size: 28px;
-    color: #1e293b;
-
+    font-size: 30px;
     text-decoration: none;
-
     transition: 0.2s ease;
 }
-?*hover effect only changes color + slight lift */
+
+/* LinkedIn official blue */
+.hero-icons a .fa-linkedin {
+    color: #0A66C2;
+}
+
+/* GitHub official dark */
+.hero-icons a .fa-github {
+    color: #181717;
+}
+
+/* Google (used as proxy since Scholar has no official icon in Font Awesome) */
+.hero-icons a .fa-google {
+    color: #4285F4;
+}
+/* hover effect */
 .hero-icons a:hover {
     transform: translateY(-3px);
-    color: #2563eb;
+    opacity: o.8;
 }
