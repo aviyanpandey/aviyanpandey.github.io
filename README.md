@@ -59,4 +59,4 @@ https://aviyanpandey.github.io
 
 GitHub: https://github.com/aviyanpandey
 
-Email: [your-email@example.com](mailto:your-email@example.com)
+Email: [a.pandey@colostate.edu](mailto:your-email@example.com)
