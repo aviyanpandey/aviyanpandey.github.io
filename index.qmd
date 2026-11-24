@@ -7,18 +7,23 @@ about:
   image-shape: round
   image-width: 17em
   links:
-    - text: LinkedIn
+    - icon: linkedin
+      text: LinkedIn
       href: https://www.linkedin.com/in/aviyan-pandey/
       target: _blank
-    - text: Google Scholar
+    - icon: google-scholar
+      text: Google Scholar
       href: https://scholar.google.com/citations?user=NWmf3jAAAAAJ&hl=en
       target: _blank
-    - text: ORCiD
+    - icon: orcid
+      text: ORCiD
       href: https://orcid.org/0000-0002-7395-9111
       target: _blank 
-    - text: GitHub
+    - icon: github
+      text: GitHub
       href: https://github.com/aviyanpandey
       target: _blank 
-    - text: Email
+    - icon: envelope
+      text: Email
       href: mailto:a.pandey@colostate.edu
 ---
