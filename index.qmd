@@ -1,6 +1,6 @@
 ---
 title: "Aviyan Pandey"
-image: Headshot.png
+image: Headshot1.png
 toc: false
 about: 
   template: jolla
@@ -20,5 +20,5 @@ about:
       href: https://github.com/aviyanpandey
       target: _blank 
     - text: Email
-      href: mailto:a.pandey@colostate.edu.edu
+      href: mailto:a.pandey@colostate.edu
 ---
