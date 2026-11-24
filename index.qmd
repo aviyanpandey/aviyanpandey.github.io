@@ -35,7 +35,9 @@ about:
 
 ::: {.hero-tagline}
 Exploring Belowground Processes in a Changing World\
-Soil ecology · Biogeochemistry · Sustainable agriculture
+Soil ecology · Biogeochemistry · Sustainable agriculture  
+
+PhD Student in Department of Soil and Crop Sciences, CSU, Fort Collins, CO
 :::
 
 
