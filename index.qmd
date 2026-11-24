@@ -29,7 +29,6 @@ about:
       href: mailto:a.pandey@colostate.edu
 ---
 
-### This content appears above the formatted about page content.
 
 :::{#hero-heading}
 
@@ -56,5 +55,4 @@ Tennessee State University | Graduate Research Assistant | Jan 2024 - Dec 2025
 
 :::
 
-### This content appears below the formatted about page content.
 ---
