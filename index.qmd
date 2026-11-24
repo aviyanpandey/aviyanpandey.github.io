@@ -1,11 +1,24 @@
 ---
-title: "aviyanpandey"
+title: "Aviyan Pandey"
+image: Headshot.png
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/aviyan-pandey/
+      target: _blank
+    - text: Google Scholar
+      href: https://scholar.google.com/citations?user=NWmf3jAAAAAJ&hl=en
+      target: _blank
+    - text: ORCiD
+      href: https://orcid.org/0000-0002-7395-9111
+      target: _blank 
+    - text: GitHub
+      href: https://github.com/aviyanpandey
+      target: _blank 
+    - text: Email
+      href: mailto:a.pandey@colostate.edu.edu
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
