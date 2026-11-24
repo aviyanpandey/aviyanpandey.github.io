@@ -28,3 +28,7 @@ html {
 h2 {
   scroll-margin-top: 70px;
 }
+
+#hero-heading > p:first-of-type {
+  text-align: center;
+}
