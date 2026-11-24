@@ -33,8 +33,10 @@ about:
 
 :::{#hero-heading}
 
+::: {.hero-tagline}
 Exploring Belowground Processes in a Changing World\
 Soil ecology · Biogeochemistry · Sustainable agriculture
+:::
 
 
 ## Research Interests {#about}
@@ -101,27 +103,27 @@ R programming, linear and generalized linear mixed-effects models, multivariate 
 
 ### Journal Articles
 
-2026
+**2026**
 
 Pandey, A., Gamage, L., Manu, M., Wang, X., Alford, J., Zhou, S., de Koff, J., Hui, D., & Li, J. (2026). Interactive effects of warming and nitrogen fertilization on soil organic carbon, total nitrogen, soil respiration, and microbial activities. GCB Bioenergy, 18(3), e70081. [View DOI ↗](https://doi.org/10.1111/gcbb.70081){target="_blank"}
 
-2025
+**2025**
 
 Manu, M., Gamage, L., Pandey, A., & Li, J. (2025). Determination of carbon and microbial biomass amounts in neglected urban pavement crevice soils. Science of the Total Environment, 1006, 180921. [View DOI ↗](https://doi.org/10.1016/j.scitotenv.2025.180921){target="_blank"}
 
 Li, J., Gamage, L., Jian, S., Wang, X., Alford, J., Manu, M., Pandey, A., de Koff, J., Hui, D., & Fay, P. A. (2025). Experimental warming effects on soil respiration, microbial abundance, and extracellular enzyme activities in a switchgrass cropland in Middle Tennessee. GCB Bioenergy, 17(10), e70066. [View DOI ↗](https://doi.org/10.1111/gcbb.70066Digital Object Identifier (DOI)){target="_blank"}
 
-2021
+**2021**
 
 Pandey, A. (2021). Food wastage: Causes, impacts and solutions. Science Heritage Journal, 5(1), 17–20. [View DOI ↗](http://doi.org/10.26480/gws.01.2021.17.20){target="_blank"}
 
 ### Posters & Presentations
 
-2026
+**2026**
 
 Gaire, M., Gamage, L., Pandey, A., Manu, M., & Li, J. (November 2026). Rising temperature effects on temporal patterns and drivers of soil respiration in switchgrass cropland. Tennessee Academy of Sciences Annual Meeting. *Oral*
 
-2025
+**2025**
 
 Gaire, M., Gamage, L., Pandey, A., Manu, M., & Li, J. (December 2025). Temperature rise and variation impact on patterns and drivers of soil respiration in switchgrass cropland. American Geophysical Union (AGU) Annual Meeting. *Poster*
 
@@ -135,7 +137,7 @@ Manu, M., Li, J., Gamage, L., Wang, X., Alford, J., & Pandey, A. (March 2025). T
 
 Manu, M., Gamage, L., Pandey, A., & Li, J. (March 2025). Can crevice microhabitats support biodiversity conservation, carbon storage, GHG reduction and pollution mitigation in urban areas? 47th Annual Tennessee State University-wide Research Symposium. *Poster*
 
-2024
+**2024**
 
 Pandey, A., & Li, J. (December 2024). Interactive effects of warming and N fertilization on soil organic carbon, total nitrogen, soil respiration, and microbial activities. American Geophysical Union (AGU) Annual Meeting. *Poster*
 
@@ -143,7 +145,7 @@ Manu, M., Li, J., Gamage, L., Wang, X., Alford, J., & Pandey, A. (December 2024)
 
 Pandey, A., & Li, J. (March 2024). Interactive effects of warming and N fertilization on soil organic carbon, total nitrogen, soil respiration, and microbial activities. Three Minute Thesis Competition, Tennessee State University. *Oral*
 
-2022
+**2022**
 
 Pandey, A., & Subedi, R. (November 2022). Effect of nitrogen and zinc on performance of mungbean (Vigna radiata) during summer planting in Sundarbazar Lamjung. 8th Symposium on Undergraduate Practicum Assessment, RD-TEC, Lamjung, Nepal. *Oral*
 
