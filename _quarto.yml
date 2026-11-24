@@ -15,5 +15,5 @@ format:
     theme: 
       light: minty
       dark: solar
-    css: styles.css
+    css: custom.css
 

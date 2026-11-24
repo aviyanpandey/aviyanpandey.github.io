@@ -2,6 +2,7 @@
 title: "Aviyan Pandey"
 image: Headshot1.png
 toc: false
+css: custom.css
 about: 
   id: hero-heading
   template: jolla
@@ -27,32 +28,112 @@ about:
     - icon: envelope
       text: Email
       href: mailto:a.pandey@colostate.edu
+    - icon: file-earmark-person
+      text: CV
+      href: assets/CV_AviyanPandey.pdf   # TODO: add your CV file here
+      target: _blank
 ---
 
 
 :::{#hero-heading}
 
-Aviyan Pandey is the PhD student in the Department of Soil and Crop Sciences at Colorado State University.
+Aviyan Pandey is a PhD student in the Department of Soil and Crop Sciences at Colorado State University, advised by Dr. Meagan Schipanski.
+
+*Tracing how plants, roots, and microbes move carbon and nitrogen through agroecosystems.*
+
+## Research Interests
+
+My research focuses on soil carbon and nitrogen cycling in agroecosystems. I use microbial biomass and enzyme activity measurements, ¹³C/¹⁵N isotope tracing, and root trait variation to understand plant–soil–microbe interactions under climate warming, nutrient management, and water limitation. My current work spans bioenergy and forage crops (switchgrass, sorghum) and cover crop residue dynamics, with a growing interest in connecting field and greenhouse measurements to soil organic matter modeling.
 
 ## Education
 
-Colorado State University | Fort Collins, CO
-PhD in Soil and Crop Sciences | May 2026 - Present
+**Colorado State University** | Fort Collins, CO  
+PhD in Soil and Crop Sciences | May 2026 – Present
 
-Tennessee State University | Nashville, TN
-MS in Environmental Sciences | Jan 2024 - Dec 2025
+**Tennessee State University** | Nashville, TN  
+MS in Environmental Sciences | Jan 2024 – Dec 2025  
+*Thesis: Interactive Effects of Warming and Nitrogen Fertilization on Soil Respiration and Microbial Community Function*
 
-Tribhuvan University | Lamjung, Gandaki
-BS in Agricultural Sciences | June 2018 - Dec 2022
+**Tribhuvan University** | Lamjung, Gandaki  
+BS in Agricultural Sciences | June 2018 – Dec 2022
 
 ## Experience
 
-Colorado State University | Graduate Research Assistant | May 2026 - Present
+**Graduate Research Assistant** | Colorado State University | May 2026 – Present  
+<!-- TODO: one line on the NIFA sorghum genotype × water × N project -->
 
-Colorado State University | Research Technician | Mar 2026 - May 2026
+**Research Technician** | Colorado State University | Mar 2026 – May 2026  
+<!-- TODO: one line on what you worked on -->
 
-Tennessee State University | Graduate Research Assistant | Jan 2024 - Dec 2025
+**Graduate Research Assistant** | Tennessee State University | Jan 2024 – Dec 2025  
+Switchgrass warming × nitrogen field experiment: soil respiration, microbial community function, and soil C and N dynamics.
+
+## Skills
+
+::: {.skills-grid}
+
+::: {.skill-card}
+### Isotope & Soil Methods
+¹³C/¹⁵N tracing, soil respiration, microbial biomass, extracellular enzyme assays, soil C and N fractionation
+:::
+
+::: {.skill-card}
+### Experimental Design
+Field warming × N manipulations, greenhouse pot studies, water limitation treatments, cover crop litter experiments
+:::
+
+::: {.skill-card}
+### Data Analysis
+R (mixed models, multivariate analysis, reproducible workflows), publication-quality figures
+:::
+
+::: {.skill-card}
+### Modeling
+MEMS 2.0 soil organic matter model (site build for Akron, CO)
+:::
 
 :::
 
+## Publications
+
+::: {.panel-tabset}
+
+### Journal Articles
+
+**Pandey, A.**, et al. (2025). *[Add full title]*. Global Change Biology Bioenergy. [DOI link]
+
+### Posters & Presentations
+
+<!-- TODO: add conference, location, year, title, poster PDF link -->
+
+### Thesis
+
+**Pandey, A.** (2025). *Interactive Effects of Warming and Nitrogen Fertilization on Soil Respiration and Microbial Community Function*. MS Thesis, Tennessee State University. [View thesis](https://digitalscholarship.tnstate.edu/alumni-etd/324)
+
+:::
+
+## Projects
+
+**Switchgrass warming × nitrogen** | Tennessee State University  
+How warming and N fertilization interact to shape soil respiration and microbial function in a switchgrass system, with a planned multi-year extension.
+
+**Sorghum genotype × water × nitrogen limitation** | Colorado State University  
+NIFA-funded field and greenhouse work on how genotype, water, and N limitation shape root traits and soil processes.
+
+**Cover crop litter quality and C/N cycling** | Colorado State University  
+Greenhouse pot study (co-authored) on how cover crop litter quality affects C and N cycling with growing corn.
+
+**MEMS 2.0 site build, Akron, CO** | Colorado State University  
+Building a new MEMS 2.0 site to model soil organic matter dynamics.
+
+## Grants & Awards
+
+<!-- TODO: add funding, scholarships, poster awards -->
+
+## Contact
+
+Department of Soil and Crop Sciences, Colorado State University, Fort Collins, CO  
+[a.pandey@colostate.edu](mailto:a.pandey@colostate.edu)
+
+:::
 ---
