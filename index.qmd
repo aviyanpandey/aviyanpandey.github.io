@@ -28,27 +28,32 @@ about:
     - icon: envelope
       text: Email
       href: mailto:a.pandey@colostate.edu
-    - icon: file-earmark-person
-      text: CV
-      href: assets/CV_AviyanPandey.pdf   # TODO: add your CV file here
-      target: _blank
 ---
 
 
 :::{#hero-heading}
 
-Aviyan Pandey is a PhD student in the Department of Soil and Crop Sciences at Colorado State University, advised by Dr. Meagan Schipanski.
+Exploring Belowground Processes in a Changing World
+Soil ecology · Biogeochemistry · Sustainable agriculture
 
-*Tracing how plants, roots, and microbes move carbon and nitrogen through agroecosystems.*
 
 ## Research Interests
 
-My research focuses on soil carbon and nitrogen cycling in agroecosystems. I use microbial biomass and enzyme activity measurements, ¹³C/¹⁵N isotope tracing, and root trait variation to understand plant–soil–microbe interactions under climate warming, nutrient management, and water limitation. My current work spans bioenergy and forage crops (switchgrass, sorghum) and cover crop residue dynamics, with a growing interest in connecting field and greenhouse measurements to soil organic matter modeling.
+My research focuses on understanding how interactions among plants, soils, microorganisms, and environmental factors regulate ecosystem processes. I am particularly interested in the following research areas:
+
+- Soil Ecology and Biogeochemistry
+- Carbon and Nitrogen Cycling
+- Plant–Soil–Microbe Interactions
+- Rhizosphere Ecology and Belowground Carbon Allocation
+- Global Change and Ecosystem Responses
+- Plant Resource Acquisition under Environmental Stress
+- Sustainable and Climate-Resilient Agroecosystems
 
 ## Education
 
 **Colorado State University** | Fort Collins, CO  
 PhD in Soil and Crop Sciences | May 2026 – Present
+*Thesis: Evaluating Plant Belowground Strategies for Nitrogen Acquisition Across Water and SOM Gradient*
 
 **Tennessee State University** | Nashville, TN  
 MS in Environmental Sciences | Jan 2024 – Dec 2025  
@@ -56,40 +61,36 @@ MS in Environmental Sciences | Jan 2024 – Dec 2025
 
 **Tribhuvan University** | Lamjung, Gandaki  
 BS in Agricultural Sciences | June 2018 – Dec 2022
+*Thesis: Effect of Nitrogen and Zinc on Performance of Mungbean (Vigna radiata) during Summer Planting in Sundarbazar Lamjung*
 
 ## Experience
 
 **Graduate Research Assistant** | Colorado State University | May 2026 – Present  
-<!-- TODO: one line on the NIFA sorghum genotype × water × N project -->
+Root functional plasticity, Rhizosphere carbon dynamics, Nitrogen acquisition, Stable isotope labeling
 
 **Research Technician** | Colorado State University | Mar 2026 – May 2026  
-<!-- TODO: one line on what you worked on -->
+Stable isotope labeling, Multi-pot isotope chamber, Research instrumentation
 
 **Graduate Research Assistant** | Tennessee State University | Jan 2024 – Dec 2025  
-Switchgrass warming × nitrogen field experiment: soil respiration, microbial community function, and soil C and N dynamics.
+Soil carbon and nitrogen cycling, Microbial functional responses, Environmental stress
 
 ## Skills
 
 ::: {.skills-grid}
 
 ::: {.skill-card}
-### Isotope & Soil Methods
-¹³C/¹⁵N tracing, soil respiration, microbial biomass, extracellular enzyme assays, soil C and N fractionation
+### Soil Biogeochemistry & Isotope Techniques
+Stable isotope tracing (¹³C and ¹⁵N), soil CO₂ efflux measurements, microbial biomass C and N, extracellular enzyme assays, soil organic matter fractionation
 :::
 
 ::: {.skill-card}
-### Experimental Design
-Field warming × N manipulations, greenhouse pot studies, water limitation treatments, cover crop litter experiments
+### Experimental Ecology
+Field-based global change experiments, controlled-environment experimentation, multifactorial experimental design, water and nutrient manipulation, plant and root phenotyping
 :::
 
 ::: {.skill-card}
-### Data Analysis
-R (mixed models, multivariate analysis, reproducible workflows), publication-quality figures
-:::
-
-::: {.skill-card}
-### Modeling
-MEMS 2.0 soil organic matter model (site build for Akron, CO)
+### Statistical Analysis & Data Science
+R programming, linear and generalized linear mixed-effects models, multivariate analysis, machine learning, scientific data visualization, reproducible workflows
 :::
 
 :::
@@ -100,40 +101,76 @@ MEMS 2.0 soil organic matter model (site build for Akron, CO)
 
 ### Journal Articles
 
-**Pandey, A.**, et al. (2025). *[Add full title]*. Global Change Biology Bioenergy. [DOI link]
+2026
+
+Pandey, A., Gamage, L., Manu, M., Wang, X., Alford, J., Zhou, S., de Koff, J., Hui, D., & Li, J. (2026). Interactive effects of warming and nitrogen fertilization on soil organic carbon, total nitrogen, soil respiration, and microbial activities. GCB Bioenergy, 18(3), e70081. [View DOI ↗](https://doi.org/10.1111/gcbb.70081){target="_blank"}
+
+2025
+
+Manu, M., Gamage, L., Pandey, A., & Li, J. (2025). Determination of carbon and microbial biomass amounts in neglected urban pavement crevice soils. Science of the Total Environment, 1006, 180921. [View DOI ↗](https://doi.org/10.1016/j.scitotenv.2025.180921){target="_blank"}
+
+Li, J., Gamage, L., Jian, S., Wang, X., Alford, J., Manu, M., Pandey, A., de Koff, J., Hui, D., & Fay, P. A. (2025). Experimental warming effects on soil respiration, microbial abundance, and extracellular enzyme activities in a switchgrass cropland in Middle Tennessee. GCB Bioenergy, 17(10), e70066. [View DOI ↗](https://doi.org/10.1111/gcbb.70066) {target="_blank"}
+
+2021
+
+Pandey, A. (2021). Food wastage: Causes, impacts and solutions. Science Heritage Journal, 5(1), 17–20. [View DOI ↗](http://doi.org/10.26480/gws.01.2021.17.20){target="_blank"}
 
 ### Posters & Presentations
 
-<!-- TODO: add conference, location, year, title, poster PDF link -->
+2026
+
+Gaire, M., Gamage, L., Pandey, A., Manu, M., & Li, J. (November 2026). Rising temperature effects on temporal patterns and drivers of soil respiration in switchgrass cropland. Tennessee Academy of Sciences Annual Meeting. [Oral]
+
+2025
+
+Gaire, M., Gamage, L., Pandey, A., Manu, M., & Li, J. (December 2025). Temperature rise and variation impact on patterns and drivers of soil respiration in switchgrass cropland. American Geophysical Union (AGU) Annual Meeting. [Poster]
+
+Manu, M., Gamage, L., Pandey, A., & Li, J. (December 2025). Small spaces, big impact: Overlooked urban pavement crevices as a frontier for biodiversity conservation, carbon storage, and pollution remediation. American Geophysical Union (AGU) Annual Meeting. [Poster]
+
+Pandey, A., Gamage, L., Manu, M., & Li, J. (April 2025). Pattern and driving mechanisms of soil respiration with warming and nitrogen fertilization in a switchgrass cropland. Three Minute Thesis Competition, Tennessee State University. [Oral]
+
+Pandey, A., Gamage, L., Manu, M., & Li, J. (March 2025). Pattern and driving mechanisms of soil respiration with warming and nitrogen fertilization in a switchgrass cropland. 47th Annual Tennessee State University-wide Research Symposium. [Poster]
+
+Manu, M., Li, J., Gamage, L., Wang, X., Alford, J., & Pandey, A. (March 2025). Two-year experimental warming effects on soil respiration and microbial community function in a switchgrass cropland in Middle Tennessee. 47th Annual Tennessee State University-wide Research Symposium. [Oral]
+
+Manu, M., Gamage, L., Pandey, A., & Li, J. (March 2025). Can crevice microhabitats support biodiversity conservation, carbon storage, GHG reduction and pollution mitigation in urban areas? 47th Annual Tennessee State University-wide Research Symposium. [Poster]
+
+2024
+
+Pandey, A., & Li, J. (December 2024). Interactive effects of warming and N fertilization on soil organic carbon, total nitrogen, soil respiration, and microbial activities. American Geophysical Union (AGU) Annual Meeting. [Poster]
+
+Manu, M., Li, J., Gamage, L., Wang, X., Alford, J., & Pandey, A. (December 2024). Two-year experimental warming effects on soil respiration and microbial community function in a switchgrass cropland in Middle Tennessee. American Geophysical Union (AGU) Annual Meeting. [Oral]
+
+Pandey, A., & Li, J. (March 2024). Interactive effects of warming and N fertilization on soil organic carbon, total nitrogen, soil respiration, and microbial activities. Three Minute Thesis Competition, Tennessee State University. [Oral]
+
+2022
+
+Pandey, A., & Subedi, R. (November 2022). Effect of nitrogen and zinc on performance of mungbean (Vigna radiata) during summer planting in Sundarbazar Lamjung. 8th Symposium on Undergraduate Practicum Assessment, RD-TEC, Lamjung, Nepal. [Oral]
 
 ### Thesis
 
 **Pandey, A.** (2025). *Interactive Effects of Warming and Nitrogen Fertilization on Soil Respiration and Microbial Community Function*. MS Thesis, Tennessee State University. [View thesis](https://digitalscholarship.tnstate.edu/alumni-etd/324)
 
+**Pandey, A.** (2022). *Effect of nitrogen and zinc on performance of mungbean (Vigna radiata) during summer planting in Sundarbazar Lamjung*. Undergraduate thesis, Institute of Agriculture and Animal Sciences, Tribhuvan University, Nepal.
+
 :::
 
-## Projects
 
-**Switchgrass warming × nitrogen** | Tennessee State University  
-How warming and N fertilization interact to shape soil respiration and microbial function in a switchgrass system, with a planned multi-year extension.
 
-**Sorghum genotype × water × nitrogen limitation** | Colorado State University  
-NIFA-funded field and greenhouse work on how genotype, water, and N limitation shape root traits and soil processes.
+## Honors, Grants & Awards
 
-**Cover crop litter quality and C/N cycling** | Colorado State University  
-Greenhouse pot study (co-authored) on how cover crop litter quality affects C and N cycling with growing corn.
+**2026**
 
-**MEMS 2.0 site build, Akron, CO** | Colorado State University  
-Building a new MEMS 2.0 site to model soil organic matter dynamics.
+**Regional Finalist**, Global Sustainability Challenge 2025–26  
+Stanford Doerr School of Sustainability, Stanford University
 
-## Grants & Awards
+**2025**
 
-<!-- TODO: add funding, scholarships, poster awards -->
+**Bridge Scholar**  
+Agronomic Science Foundation, American Society of Agronomy, Crop Science Society of America, and Soil Science Society of America
 
-## Contact
-
-Department of Soil and Crop Sciences, Colorado State University, Fort Collins, CO  
-[a.pandey@colostate.edu](mailto:a.pandey@colostate.edu)
+**Third Place**, Three Minute Thesis (3MT) Competition  
+College-wide competition, Tennessee State University
 
 :::
 ---
