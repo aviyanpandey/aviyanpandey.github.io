@@ -5,15 +5,22 @@ project:
 website:
   title: "Aviyan Pandey"
   navbar:
+    pinned: true
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: Home
+        href: index.qmd
+      - text: About
+        href: index.qmd#about
+      - text: Skills
+        href: index.qmd#skills
+      - text: Publications
+        href: index.qmd#publications
+      - text: Awards
+        href: index.qmd#awards
 
 format:
   html:
-    theme: 
+    theme:
       light: minty
       dark: solar
     css: custom.css
-
